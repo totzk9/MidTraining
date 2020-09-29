@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "140770266191",
+    "firebase_url": "https://chatappligexam.firebaseio.com",
+    "project_id": "chatappligexam",
+    "storage_bucket": "chatappligexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140770266191:android:b1a2aa8f025b7c3ff96e3a",
+        "android_client_info": {
+          "package_name": "com.lig.midtraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140770266191-ghlm7slh3im0d18upehak8vecje98c99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxLI5f9S9TpNzbaBJhBcUET07p9dI2ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140770266191-ghlm7slh3im0d18upehak8vecje98c99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140770266191:android:5137b92c79334a6ff96e3a",
+        "android_client_info": {
+          "package_name": "exam.com.chatappexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140770266191-ghlm7slh3im0d18upehak8vecje98c99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxLI5f9S9TpNzbaBJhBcUET07p9dI2ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140770266191-ghlm7slh3im0d18upehak8vecje98c99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
